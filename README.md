@@ -1,8 +1,30 @@
-# Ember-cli-datatables
+# ember-cli-datatables
 
-This README outlines the details of collaborating on this Ember addon.
+An ember component wrapper around the jQuery [DataTables plugin](https://datatables.net)
 
-## Installation
+## Demo
+https://acburdine.github.io/ember-cli-datatables/
+
+## Installation (as an ember-cli addon)
+
+For Ember CLI >= `0.2.3`:
+
+```shell
+ember install ember-cli-datatables
+```
+
+For Ember CLI < `0.2.3`:
+```shell
+ember install:addon ember-cli-datatables
+```
+
+## Usage
+
+This addon provides an `{{ember-datatables}}` component.
+
+Usage is WIP.
+
+## Installation (for development)
 
 * `git clone` this repository
 * `npm install`
